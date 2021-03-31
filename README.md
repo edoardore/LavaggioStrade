@@ -15,7 +15,7 @@ Creare una community di condivisione degli orari della pulizia delle strade in m
 * Dispositivo Android
 
 ## Mockup
-![imm](https://github.com/edoardore/Street-Cleaning-Map/blob/main/mockup.PNG)
+![imm](https://github.com/edoardore/LavaggioStrade/blob/master/mockup.PNG)
 
 ## Debolezze
 Se gli utenti inseriscono informazioni di lavaggio strade scorrette l'intera applicazione fallisce!
